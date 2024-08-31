@@ -82,7 +82,7 @@ Here are some sample example from the app:
 
 ## 🌐 Deployed Version
 
-The app is deployed on **Streamlit**! You can check out the live version and explore the analysis on your own: [Streamlit App](india-startup-analysis.streamlit.app/).
+The app is deployed on **Streamlit**! You can check out the live version and explore the analysis on your own: [Streamlit App](https://india-startup-analysis.streamlit.app/).
 
 ## 📚 Resources
 
